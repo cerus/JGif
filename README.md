@@ -11,17 +11,17 @@ JGif is a little gif editing library based on [animated-gif-lib-for-java](https:
 ### Maven
 ```xml
 <repositories>
-	<repository>
-		<id>jitpack.io</id>
-		<url>https://jitpack.io</url>
-	</repository>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
 </repositories>
 	
 <dependencies>
-	<dependency>
-    	<groupId>com.github.RealCerus</groupId>
-    	<artifactId>JGif</artifactId>
-    	<version>1.0.0</version>
+    <dependency>
+        <groupId>com.github.RealCerus</groupId>
+        <artifactId>JGif</artifactId>
+        <version>1.0.0</version>
     </dependency>
 </dependencies>
 ```
