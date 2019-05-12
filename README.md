@@ -55,5 +55,5 @@ public class GifTest {
 }
 ```
 
-Output:
+Output:\
 ![Output](https://i.imgur.com/cFPzGNK.gif)
