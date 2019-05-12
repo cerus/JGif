@@ -54,3 +54,6 @@ public class GifTest {
     }
 }
 ```
+
+Output:
+![Output](https://i.imgur.com/cFPzGNK.gif)
