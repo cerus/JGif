@@ -39,11 +39,11 @@ public class GifTest {
             return;
         }
 
-        for(int i = 0; i < image.getFrames().size(); i++){
+        for (int i = 0; i < image.getFrames().size(); i++){
             BufferedImage frame = image.getFrame(i);
             Graphics graphics = frame.getGraphics();
             graphics.setColor(Color.CYAN);
-            graphics.drawString("FRAME "+i, 50, 50);
+            graphics.drawString("FRAME " + i, 50, 50);
             graphics.dispose();
             image.setFrame(i, frame);
         }
