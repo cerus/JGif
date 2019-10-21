@@ -78,7 +78,7 @@ public class GifEncoder extends AnimatedGifEncoder {
     /**
      * @return background
      */
-    public Color getBackground() {
+    public Color getBackgroundColor() {
         return background;
     }
 
