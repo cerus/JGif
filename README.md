@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/RealCerus/JGif.svg)](https://jitpack.io/#RealCerus/JGif)
+
 # JGif
 JGif is a little gif editing library based on [animated-gif-lib-for-java](https://github.com/rtyley/animated-gif-lib-for-java) by [rtyley](https://github.com/rtyley).
 
